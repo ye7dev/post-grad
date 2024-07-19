@@ -1,6 +1,7 @@
 # 대학원 이후 활동 정리
 
 대학원 졸업 이후 현재까지 작업한 내역을 공유드립니다. 
+노션 링크에 포함된 내용을 모두 깃허브로 마이그레이션 했습니다. 
 
 ### 논문
 
@@ -22,16 +23,16 @@
        <img src="https://github.com/user-attachments/assets/5dee05c6-3b30-4c23-9e03-2b0918b7c1ab"  width="600" height="250"/>
   </details>    
 
-### Programming
+### 프로그래밍
 
-- 파이썬 프로그래밍 연습 - Leetcode, SWEA 문제 풀이 
+- 파이썬 프로그래밍 연습 (w/Leetcode, SWEA) ([📍링크](https://www.notion.so/66797a05b716494fa98f706449a3bc7e?pvs=21))
 
-### DataScience
+### 데이터 사이언스 및 통계
 
-- 데이터 사이언스, 통계 주요 개념 정리, 복습 
-- Pandas, R 실습
+- 데이터 사이언스, 통계 주요 개념 정리, 복습 ([📍링크](https://www.notion.so/Practical-Statistics-e08b39f304de46f6970e861554c7972e?pvs=21))
+- Pandas, R 실습 ([📍링크](https://github.com/ye7dev/dev-notebook/tree/main/prac_stat))
 
 ### SQL
 
-- 데이터베이스 주요 개념 학습 및 정리 
-- SQL 실전 문제 풀이 
+- 데이터베이스 주요 개념 학습 및 정리 ([📍링크](https://www.notion.so/Learning-SQL-6f5006f0a7ae4f3e8456a06a399a1456?pvs=21))
+- SQL 실전 문제 풀이 ([📍링크](https://www.notion.so/Practicing-SQL-a1b3af4d6cc34b399f9cf82c7d2091c0?pvs=21))
