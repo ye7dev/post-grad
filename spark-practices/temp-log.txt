@@ -1,0 +1,79 @@
+SparkSession created
+File path provided: ./../../others/LearningSparkV2/chapter2/py/src/data/mnm_dataset.csv
++-----+------+----------+
+|State|Color |sum(Count)|
++-----+------+----------+
+|CA   |Yellow|100956    |
+|WA   |Green |96486     |
+|CA   |Brown |95762     |
+|TX   |Green |95753     |
+|TX   |Red   |95404     |
+|CO   |Yellow|95038     |
+|NM   |Red   |94699     |
+|OR   |Orange|94514     |
+|WY   |Green |94339     |
+|NV   |Orange|93929     |
+|TX   |Yellow|93819     |
+|CO   |Green |93724     |
+|CO   |Brown |93692     |
+|CA   |Green |93505     |
+|NM   |Brown |93447     |
+|CO   |Blue  |93412     |
+|WA   |Red   |93332     |
+|WA   |Brown |93082     |
+|WA   |Yellow|92920     |
+|NM   |Yellow|92747     |
+|NV   |Brown |92478     |
+|TX   |Orange|92315     |
+|AZ   |Brown |92287     |
+|AZ   |Green |91882     |
+|WY   |Red   |91768     |
+|AZ   |Orange|91684     |
+|CA   |Red   |91527     |
+|WA   |Orange|91521     |
+|NV   |Yellow|91390     |
+|UT   |Orange|91341     |
+|NV   |Green |91331     |
+|NM   |Orange|91251     |
+|NM   |Green |91160     |
+|WY   |Blue  |91002     |
+|UT   |Red   |90995     |
+|CO   |Orange|90971     |
+|AZ   |Yellow|90946     |
+|TX   |Brown |90736     |
+|OR   |Blue  |90526     |
+|CA   |Orange|90311     |
+|OR   |Red   |90286     |
+|NM   |Blue  |90150     |
+|AZ   |Red   |90042     |
+|NV   |Blue  |90003     |
+|UT   |Blue  |89977     |
+|AZ   |Blue  |89971     |
+|WA   |Blue  |89886     |
+|OR   |Green |89578     |
+|CO   |Red   |89465     |
+|NV   |Red   |89346     |
+|UT   |Yellow|89264     |
+|OR   |Brown |89136     |
+|CA   |Blue  |89123     |
+|UT   |Brown |88973     |
+|TX   |Blue  |88466     |
+|UT   |Green |88392     |
+|OR   |Yellow|88129     |
+|WY   |Orange|87956     |
+|WY   |Yellow|87800     |
+|WY   |Brown |86110     |
++-----+------+----------+
+
+Total Rows = 60
++-----+------+----------+
+|State|Color |sum(Count)|
++-----+------+----------+
+|CA   |Yellow|100956    |
+|CA   |Brown |95762     |
+|CA   |Green |93505     |
+|CA   |Red   |91527     |
+|CA   |Orange|90311     |
+|CA   |Blue  |89123     |
++-----+------+----------+
+
